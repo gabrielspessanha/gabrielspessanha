@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Gabriel pessanha👋
 
-Here are some ideas to get you started:
 
 - 📘 Estudando JavaScript
 - 📧 Contate-me no email: gabrielpessanha2g@gmail.com
@@ -15,6 +14,7 @@ Here are some ideas to get you started:
   <img align="center" alt="gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gabriel-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="gabriel-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
+  <img align="right" alt="gabriel-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/705944021872279554/1088893304575369236/picasion.com_862ff8b5ea2988feed6d14686ba2e797.gif">
 </div>
 
 
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/gabriel-santos-pessanha-a33147258/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
