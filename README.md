@@ -17,7 +17,6 @@ Here are some ideas to get you started:
   <img align="center" alt="gabriel-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
 </div>
 
-##
 
 <div> 
  
