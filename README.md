@@ -7,7 +7,7 @@
 - ✋🏼 Seja bem-vindo ao meu github
 
 ![GitHub estatisticas](https://github-readme-stats.vercel.app/api?username=gabrielspessanha&show_icons=true&locale=pt-br&icon_color=7fff00&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielspessanha&locale=pt-BR&layout=compact&theme=chartreuse-dark)](https://github.com/gabrielspessanha/github-readme-stats)
+
 
 # Tech Stack
 
