@@ -2,7 +2,7 @@
 # Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">😁
 
 
-- 📘 Estudando React
+- 📘 Estudando React e Typescript
 - 📧 Contate-me no email: gabrielpessanha2g@gmail.com
 - ✋🏼 Seja bem-vindo ao meu github
 
